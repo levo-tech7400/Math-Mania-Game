@@ -32,5 +32,5 @@ To run locally:
    ```bash
    git clone https://github.com/your-username/math-mania.git
 
-📫 LinkedIn: [Levent Erdost](https://www.linkedin.com/in/levent-erdost-2b0784201)  
+📫 LinkedIn: [Levent E.](https://www.linkedin.com/in/levent-erdost-2b0784201)  
 💻 GitHub: [@levo-tech7400](https://github.com/levo-tech7400)
