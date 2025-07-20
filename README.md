@@ -4,9 +4,9 @@ Math Mania - A fun and educational math game! Solve as many math problems as you
 
 # Math Mania 🧮⏱️  
 
-![Math Mania Screenshot](screenshot1.png) 
+![Math Mania Screenshot](screenshot1a.png) 
 
-![Math Mania Screenshot](screenshot2.png) 
+![Math Mania Screenshot](screenshot2b.png) 
 
 A fast-paced math game where you solve problems against the clock! Race against time, level up, and climb the leaderboard.
 
